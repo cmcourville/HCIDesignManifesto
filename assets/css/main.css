@@ -2964,6 +2964,11 @@
 			margin: 0;
 			font-size: 1.5em;
 		}
+		#banner h2 {
+			font-weight: 400;
+			color: #fff;
+			margin: 0;
+		}
 
 		#banner .icon {
 			color: #6cc091;
