@@ -2730,6 +2730,10 @@
 			position: relative;
 		}
 
+		#header .later {
+			color: #555;
+		}
+
 		#header .logo {
 			color: #ffffff;
 			display: inline-block;
