@@ -1855,7 +1855,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: #555;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -1863,11 +1863,13 @@
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -1em;
+		columns: #555555;
 	}
 
 	header h3 + p {
 		font-size: 1.1em;
 		margin-top: -0.8em;
+		color: #555;
 	}
 
 	header h4 + p,
@@ -2871,7 +2873,6 @@
 			text-decoration: none;
 			font-weight: 400;
 		}
-
 			#navPanel a:not(.close):first-child {
 				border: none;
 			}
