@@ -2979,6 +2979,7 @@
 			margin-bottom: 2em !important;
 			margin-inline-end: 30em;
 			margin-block-start: 30em; 
+			text-align: left;
 		}
 
 		#footer label {
@@ -2998,9 +2999,7 @@
 				text-decoration: none;
 			}
 
-				#footer .copyright a:hover {
-					color: #FFF;
-				}
+			
 
 		@media screen and (max-width: 980px) {
 
