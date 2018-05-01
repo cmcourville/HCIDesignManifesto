@@ -22,9 +22,6 @@
 	aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-	article{
-		margin-left: 20px;
-		margin-right: 20px; 
 
 	}
 
@@ -3021,4 +3018,3 @@
 
 		}
 		*/
-		
