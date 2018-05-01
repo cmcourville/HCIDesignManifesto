@@ -2722,6 +2722,7 @@
 
 		#header .later {
 			color: #555;
+			position: center; 
 		}
 
 		#header .logo {
