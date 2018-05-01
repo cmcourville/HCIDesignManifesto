@@ -21,6 +21,8 @@
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
+		margin-left: 20px;
+		margin-right: 20px; 
 	}
 
 	body {
