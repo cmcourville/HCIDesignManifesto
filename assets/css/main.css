@@ -2977,9 +2977,9 @@
 
 		#footer .later{
 			color: #555;
-			margin-bottom: 2em !important;
-			margin-inline-end: 30em;
-			margin-block-start: 30em; 
+			margin-bottom: 40px;
+			margin-inline-end: 40px;
+			margin-block-start: 40px; 
 			text-align: left;
 		}
 
