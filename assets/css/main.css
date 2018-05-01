@@ -2704,7 +2704,7 @@
 		color: #fff;
 		cursor: default;
 		height: 3.25em;
-		margin: 25px 50px 75px;
+		margin: 25px 50px 75;
 		line-height: 3.25em;
 		position: absolute;
 		text-align: right;
@@ -2716,7 +2716,6 @@
 		#header .inner {
 			margin: 0 auto;
 			position: left;
-			text-indent: 50px
 		}
 
 		#header .later {
@@ -2797,7 +2796,7 @@
 			font-weight: 400;
 			color: #fff;
 			line-height: 1em;
-			margin: 0 0 1em 0;
+			margin: 0 0 0;
 			padding: 0;
 		}
 
@@ -2821,7 +2820,7 @@
 		#banner p {
 			font-size: 1em;
 			color: rgba(255, 255, 255, 0.55);
-			margin-bottom: 1.75em;
+			margin-bottom: 0;
 		}
 
 		#banner .flex {
@@ -2831,7 +2830,7 @@
 			-ms-justify-content: center;
 			justify-content: center;
 			text-align: center;
-			margin: 0 auto 4em auto;
+			margin: 0 auto 0 auto;
 		}
 
 			#banner .flex div {
